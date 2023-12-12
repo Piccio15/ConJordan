@@ -1,2 +1,2 @@
-print("Linea 1")
+print("Rompo todo xd")
 print("Linea 2")
